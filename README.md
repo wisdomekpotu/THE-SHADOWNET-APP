@@ -12,12 +12,15 @@ This project is an Open Source online portal web-application for lecturers of a 
 
 ### Overview
 
-Fuctionalities:
+Functionalities:
 
-- Signup.
-- Login.
+- User Signup.
+- User Login.
 - Upload Lecture Video.
 - Delete Lecture Video.
+- Upload Lecture Thumbnail (image).
+
+
 
 ### Tech Stack
 
